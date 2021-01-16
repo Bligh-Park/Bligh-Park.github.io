@@ -466,11 +466,11 @@ words[:10]
 
 
 ## 전처리 All
-* 1. BeautifulSoup 으로 html 태그 제거
-* 2. 정규표현식으로 알파벳 이외의 문자 공백 제거
-* 3. 소문자 변환
-* 4. NLTK 데이터를 활용 불용어(stopwords) 제거
-* 5. Stemming 을 활용하여 어간 추출
+1. BeautifulSoup 으로 html 태그 제거
+2. 정규표현식으로 알파벳 이외의 문자 공백 제거
+3. 소문자 변환
+4. NLTK 데이터를 활용 불용어(stopwords) 제거
+5. Stemming 을 활용하여 어간 추출
 
 
 ```python
@@ -613,7 +613,7 @@ displayWordCloud(' '.join(clean_train_reviews))
 
 
 ![png](output_36_1.png)
-
+https://github.com/Bligh-Park/Bligh-Park.github.io/blob/master/_posts/output_36_1.png
 
 
 ```python

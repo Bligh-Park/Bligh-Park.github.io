@@ -612,9 +612,7 @@ displayWordCloud(' '.join(clean_train_reviews))
     
 
 
-![png](output_36_1.png)
-https://github.com/Bligh-Park/Bligh-Park.github.io/blob/master/_posts/output_36_1.png
-
+![png](https://github.com/Bligh-Park/Bligh-Park.github.io/blob/master/_posts/output_36_1.png "wordcloud")
 
 ```python
 # 단어 수
